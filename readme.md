@@ -1,16 +1,16 @@
 # Em construção
 <p align="center">
- <a href="#tecnologias">Tecnologias</a> •
+ <a href="#Tecnologias">Tecnologias</a> •
  <a href="#projeto">Projeto</a> • 
  <a href="#autor">Autor</a>
-</p>
+</p>.
 
-## 🕹️ Tecnologias
+<h2>Tecnologias </h2>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 * Html5
 * Css
 * JavaScript
-* Php
+* Php.
 
 ## 💻 Projeto
 O website Bikcraft é um site institucional, fictício, criado seguindo o curso de [Web Design](https://www.origamid.com/curso/web-design-completo/) da Origamid.
